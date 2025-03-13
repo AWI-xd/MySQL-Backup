@@ -1,4 +1,2 @@
-# test
-# teststetseegdsgsd
-# fdasd
-# dfdfdsfsdff
+# App for MySQL backups
+ 
